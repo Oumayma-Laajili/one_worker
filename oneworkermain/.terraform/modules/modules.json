@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"kube_worker1","Source":"./kube_worker1","Dir":"kube_worker1"},{"Key":"kube_worker2","Source":"./kube_worker2","Dir":"kube_worker2"},{"Key":"kubemaster","Source":"./kube_master","Dir":"kube_master"}]}

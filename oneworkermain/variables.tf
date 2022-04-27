@@ -1,0 +1,10 @@
+variable "vsphere_user" {}
+variable "vsphere_pass" {}
+variable "vsphere_server" {}
+variable "root_pass" {}
+variable "vsphere_datacenter" {}
+variable "name_rp" {}
+variable "vsphere_network" {}
+variable "vsphere_template" {}
+variable "vsphere_cluster" {}
+variable "vsphere_datastore" {}
